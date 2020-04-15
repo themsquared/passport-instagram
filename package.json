@@ -1,5 +1,5 @@
 {
-  "name": "passport-instagram",
+  "name": "passport-instagram-basic-api",
   "version": "1.0.0",
   "description": "Instagram authentication strategy for Passport (updated for Basic API).",
   "keywords": ["passport", "instagram", "auth", "authn", "authentication", "identity"],
