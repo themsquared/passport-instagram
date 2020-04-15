@@ -1,19 +1,19 @@
 {
   "name": "passport-instagram",
   "version": "1.0.0",
-  "description": "Instagram authentication strategy for Passport.",
+  "description": "Instagram authentication strategy for Passport (updated for Basic API).",
   "keywords": ["passport", "instagram", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-instagram.git"
+    "url": "git://github.com/themsquared/passport-instagram.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-instagram/issues"
+    "url": "http://github.com/themsquared/passport-instagram/issues"
   },
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Mike Moore",
+    "email": "mike@webofmike.com",
+    "url": "http://webofmike.com/"
   },
   "licenses": [ {
     "type": "MIT",
